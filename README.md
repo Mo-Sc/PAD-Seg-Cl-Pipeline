@@ -207,7 +207,7 @@ class PipelineComponent:
 **Purpose:** Segments anatomical structures in ultrasound images.
 
 **Supported architectures:**
-- `cUNet`: Custom U-Net implementation (default)
+- `cUNet`: Custom U-Net implementation ([sendero-us-segmentation](https://github.com/Mo-Sc/sendero-us-segmentation))
 - `nnUNet`: Not implemented in v2
 - `MedSAM`: Not implemented in v2
 
